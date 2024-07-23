@@ -3,3 +3,6 @@ Frase2
 Frase3
 
 Frase 5
+
+
+Adiconando linhas depois do 1º Commit
