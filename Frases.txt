@@ -6,3 +6,5 @@ Frase 5
 Agora coloquei mais frases depois do 2º Commit
 
 Adiconando linhas depois do 1º Commit
+
+Fazendo o 4} Commit
